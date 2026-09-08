@@ -71,7 +71,7 @@ The statistical analysis covers:
 
 - Data import
 - Data type configuration
-- Data cleaning
+- Data quality assessment
 - Factor handling
 - Descriptive statistics
 - Data visualization
@@ -104,9 +104,10 @@ The statistical analysis covers:
     │   ├── 05_group_comparisons.R
     │   ├── 06_hypothesis_testing.R
     │   ├── 07_correlation_analysis.R
-    │   └── 08_final_clinical_insights.R
+    │   ├── 08_regression_analysis.R
+    │   └── 09_final_clinical_insights.R
     │
-    ├── docs/
+    └── docs/
         ├── healthcare_context.md
         ├── dataset_description.md
         ├── statistical_methods.md
